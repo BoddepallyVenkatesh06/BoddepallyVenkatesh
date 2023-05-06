@@ -1,3 +1,4 @@
 # BoddepallyVenkatesh
 My_Resume
-MY_RESUME.png
+
+![](<https://github.com/BoddepallyVenkatesh06/BoddepallyVenkatesh/blob/main/MY_RESUME.png?raw=true>)
